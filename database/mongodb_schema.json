@@ -1,0 +1,15 @@
+{
+  "User": {
+    "name": "String",
+    "email": "String",
+    "password": "String",
+    "role": "String"
+  },
+  "Complaint": {
+    "userId": "ObjectId",
+    "title": "String",
+    "description": "String",
+    "status": "String",
+    "createdAt": "Date"
+  }
+}

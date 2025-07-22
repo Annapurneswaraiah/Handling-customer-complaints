@@ -1,0 +1,15 @@
+[
+  {
+    "name": "vinaykumar",
+    "email": "vinay@example.com",
+    "password": "hashedpassword123",
+    "role": "user"
+  },
+  {
+    "userId": "64bfe86cba9a10f88cc4f709",
+    "title": "Network Issue",
+    "description": "No signal from 2 days",
+    "status": "Pending",
+    "createdAt": "2025-06-20T10:00:00Z"
+  }
+]
