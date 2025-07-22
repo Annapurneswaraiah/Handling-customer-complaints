@@ -1,0 +1,16 @@
+.landing-page {
+  background-color: #f4f8fb;
+}
+
+.hero-section {
+  background: linear-gradient(to right, #e7f0fd, #f4f8fb);
+  min-height: 80vh;
+}
+
+.features-section i {
+  transition: transform 0.3s ease;
+}
+
+.features-section i:hover {
+  transform: scale(1.2);
+}
